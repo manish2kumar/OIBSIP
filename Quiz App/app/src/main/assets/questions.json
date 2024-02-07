@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What command is used to remove the directory?",
+    "options": ["remove", "erase", "rem", "rm"],
+    "correctAnswer": "rm"
+  },
+  {
+    "question": "What command is used to remove the directory?",
+    "options": ["rm", "rmd", "rmdir", "rmm"],
+    "correctAnswer": "rmdir"
+  },
+  {
+    "question": "What hardware architectures are not supported by Red Hat?",
+    "options": ["SPARC", "Macintosh", "Alpha", "IBM-compatible"],
+    "correctAnswer": "Macintosh"
+  },
+  {
+    "question": "What TCP/IP protocol is used for remote terminal connection service?",
+    "options": ["UDP", "FTP", "RARP", "TELNET"],
+    "correctAnswer": "TELNET"
+  },
+  {
+    "question": "How many primary partitions can exist on one drive?",
+    "options": ["6", "4", "2", "3"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "What does FSF stand for?",
+    "options": ["Free Software File", "File Server First", "Free Software Foundation", "First Serve First"],
+    "correctAnswer": "Free Software Foundation"
+  },
+  {
+    "question": "What command do you use to create Linux file systems?",
+    "options": ["fsck", "mkdir", "mkfs", "mount"],
+    "correctAnswer": "mkfs"
+  },
+  {
+    "question": "What command is used to display the characteristics of a process?",
+    "options": ["pu", "pip", "pid", "ps"],
+    "correctAnswer": "ps"
+  },
+  {
+    "question": "What sign is used to back up over typing errors in vi?",
+    "options": ["!", "$", "#", "@"],
+    "correctAnswer": "#"
+  },
+  {
+    "question": "What command is used with vi editor to search a pattern in the forward direction?",
+    "options": ["//", "%", "?", "/"],
+    "correctAnswer": "/"
+  }
+]
